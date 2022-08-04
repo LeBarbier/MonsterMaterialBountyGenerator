@@ -32,9 +32,13 @@
     <Content Include="public\favicon.ico" />
     <Content Include="public\index.html" />
     <Content Include="src\App.vue" />
+    <Content Include="src\assets\monsters.json" />
+    <Content Include="src\components\Monsters.vue" />
+    <Content Include="src\components\navbar.vue" />
     <Content Include="src\components\Home.vue" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="src\routes.js" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dist\" />
@@ -42,9 +46,17 @@
     <Folder Include="src\" />
     <Folder Include="src\assets\" />
     <Folder Include="src\components\" />
+    <Folder Include="src\cSharp\" />
+    <Folder Include="src\dataService\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="babel.config.js" />
+    <Content Include="src\cSharp\MonstreFactory.cs" />
+    <Content Include="src\cSharp\Piece.cs" />
+    <Content Include="src\cSharp\PiecesFactory.cs" />
+    <Content Include="src\cSharp\Program.cs" />
+    <Content Include="src\cSharp\Utilite.cs" />
+    <Content Include="src\dataService\monster.data.service.js" />
     <Content Include="src\main.js" />
   </ItemGroup>
   <PropertyGroup>

@@ -1,16 +1,19 @@
 <template>
     <div id="app">
-        <Home msg="Hello world!" />
+        <mmbg-navbar></mmbg-navbar>
+        <div>
+            <router-view></router-view>
+        </div>
     </div>
 </template>
 
 <script>
-    import Home from './components/Home.vue';
+    import NavBar from '@/components/navbar.vue';
 
     export default {
         name: 'app',
         components: {
-            Home
+            'mmbg-navbar': NavBar
         }
     };
 </script>

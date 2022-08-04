@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "watch": "vue-cli-service serve --watchAll"
   },
   "description": "MonsterMaterialBountyGenerator",
   "author": {
@@ -21,6 +22,7 @@
     "babel-eslint": "10.1.0",
     "eslint": "6.8.0",
     "eslint-plugin-vue": "6.2.2",
+    "vue-router": "^3.5.4",
     "vue-template-compiler": "2.6.12"
   },
   "eslintConfig": {

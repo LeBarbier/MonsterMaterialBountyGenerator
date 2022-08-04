@@ -1,0 +1,5146 @@
+{
+  "Arakocra": {
+    "base": {
+      "feather": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 3,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "Beak": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 2,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Aboleth": {
+    "base": {
+      "mucous": {
+        "uses": ["Alchemy"],
+        "value": 590,
+        "dc": 20,
+        "notes": "PC diseased on failed DC",
+        "shelfLife": 4
+      }
+    }
+  },
+  "Angel": {
+    "deva": {
+      "feather": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 590,
+        "dc": 15,
+        "notes": "Part dissolved on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "planetar": {
+      "feather": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 1500,
+        "dc": 18,
+        "notes": "Part dissolved on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "solar": {
+      "feather": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 3000,
+        "dc": 20,
+        "notes": "Part dissolved on failed DC.",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Animated Object": {
+    "base": {}
+  },
+  "Ankheg": {
+    "base": {
+      "acid-gland": {
+        "uses": ["Alchemy", "Medical", "Practical"],
+        "value": 45,
+        "dc": 13,
+        "notes": "3d6 acid damage on failed DC.",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Ape": {
+    "base": {
+      "paw": {
+        "uses": ["Trophy"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 8,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 10
+      }
+    },
+    "giant": {
+      "paw": {
+        "uses": ["Trophy"],
+        "value": 20,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 270,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Awakened shrub": {
+    "base": {}
+  },
+  "Awakened tree": {
+    "base": {}
+  },
+  "Axe beak": {
+    "base": {
+      "beak": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 5,
+        "dc": 6,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Azer": {
+    "base": {
+      "azer-brass": {
+        "uses": ["Trophy", "Practical"],
+        "value": 45,
+        "dc": 15,
+        "notes": "1d10 fire damage on failed DC.",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Baboon": {
+    "base": {
+      "skull": {
+        "uses": ["Trophy"],
+        "value": 1,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Badger": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": ["Trophy"],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 4,
+        "dc": 17,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": ["Trophy"],
+        "value": 1,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Banshee": {
+    "base": {}
+  },
+  "Basilisk": {
+    "base": {
+      "egg": {
+        "uses": ["Practical"],
+        "value": 1000,
+        "dc": 0,
+        "notes": "",
+        "shelfLife": 90
+      },
+      "gullet": {
+        "uses": ["Alchemy"],
+        "value": 65,
+        "dc": 20,
+        "notes": "Ruptured on failed DC.",
+        "shelfLife": 2
+      },
+      "eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 5,
+        "dc": 10,
+        "notes": "2d6 poison damage on failed DC.",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Bat": {
+    "base": {
+      "wings": {
+        "uses": ["Alchemy"],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 10
+      }
+    },
+    "giant": {
+      "wings": {
+        "uses": ["Alchemy"],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Bear": {
+    "black": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 8,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": ["Trophy", "Practical"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "brown": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 18,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": ["Trophy", "Practical"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "polar": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 40,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "claws": {
+        "uses": ["Trophy", "Practical"],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Behir": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 358,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 8
+      },
+      "claws": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 68,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 47,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 149,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eyes": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 212,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "bones": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 85,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "behir-fundamentum": {
+        "uses": ["Alchemy"],
+        "value": 521,
+        "dc": 25,
+        "notes": "12d10 lightning damage on fail DC.",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Beholder": {
+    "base": {
+      "main-eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 1250,
+        "dc": 17,
+        "notes": "Blast of permanent antimagic 30ft radius.",
+        "shelfLife": 2
+      },
+      "minor-eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 400,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 250,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "death-tyrant": {
+      "main-eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 2000,
+        "dc": 17,
+        "notes": "Blast of permanent antimagic 30ft radius.",
+        "shelfLife": 2
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 300,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "spectator": {
+      "main-eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 100,
+        "dc": 16,
+        "notes": "Blast of permanent antimagic 30ft radius.",
+        "shelfLife": 2
+      },
+      "minor-eye": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 20,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 20,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Blight": {
+    "neede": {},
+    "twig": {},
+    "vine": {}
+  },
+  "Blink dog": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 5,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Blood hawk": {
+    "base": {
+      "feathers": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Boar": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 4,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "tusks": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 1,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 35,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "tusks": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 10,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Bugbear": {
+    "base": {
+      "skull": {
+        "uses": ["Trophy"],
+        "value": 20,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "chief": {
+      "skull": {
+        "uses": ["Trophy"],
+        "value": 70,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Bulette": {
+    "base": {
+      "claws": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 150,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 30,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Bullywug": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 4,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "tongue": {
+        "uses": ["Alchemy"],
+        "value": 1,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Cambion": {
+    "base": {
+      "eyes": {
+        "uses": ["Alchemy"],
+        "value": 50,
+        "dc": 8,
+        "notes": "Ruptured on failed DC.",
+        "shelfLife": 2
+      },
+      "tongue": {
+        "uses": ["Alchemy"],
+        "value": 30,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "horns": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 100,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Camel": {
+    "base": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 3,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Carrion Crawler": {
+    "base": {
+      "poison-gland": {
+        "uses": ["Alchemy"],
+        "value": 45,
+        "dc": 16,
+        "notes": "2d4 poison damage and paralyzed.",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Cat": {
+    "base": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 1,
+        "dc": 3,
+        "notes": "Many ways to remove hide.",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Centaur": {
+    "base": {}
+  },
+  "Centipede": {
+    "giant": {
+      "poison-gland": {
+        "uses": ["Alchemy"],
+        "value": 10,
+        "dc": 16,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Chimera": {
+    "base": {
+      "horns": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 25,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 30,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": ["Alchemy", "Trophy"],
+        "value": 45,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "fundamentum": {
+        "uses": ["Alchemy"],
+        "value": 360,
+        "dc": 22,
+        "notes": "7d8 fire damage on failed DC.",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Chuul": {
+    "base": {
+      "poison-gland": {
+        "uses": ["Alchemy"],
+        "value": 110,
+        "dc": 18,
+        "notes": "Poisoned for 1 minute on failed DC.",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Cloaker": {
+    "base": {
+      "voice-box": {
+        "uses": ["Alchemy"],
+        "value": 390,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Cockatrice": {
+    "base": {
+      "beak": {
+        "uses": ["Alchemy"],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Couatl": {
+    "base": {
+      "feathers": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 110,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "gem-egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 800,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Crab": {
+    "base": {},
+    "giant": {}
+  },
+  "Crawling Claw": {
+    "base": {}
+  },
+  "Crocodile": {
+    "base": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 10,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 1
+      }
+    },
+    "giant": {
+      "hide": {
+        "uses": ["Trophy", "Practical"],
+        "value": 180,
+        "dc": 17,
+        "notes": "",
+        "shelfLife": 1
+      }
+    }
+  },
+  "Cyclops": {
+    "base": {
+      "eye": {
+        "uses": [ "Alchemy", "Trophy"],
+        "value": 230,
+        "dc": 21,
+        "notes": "Eye ruptures on failed DC.",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Darkmantle": {
+    "base": {
+      "hide": {
+        "uses": ["Practical"],
+        "value": 10,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Death dog": {
+    "base": {
+      "heart": {
+        "uses": ["Alchemy"],
+        "value": 20,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Death knight": {
+    "base": {}
+  },
+  "Deer": {
+    "base": {
+      "hide": {
+        "uses": [ "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "antler": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Demilich": {
+    "base": {}
+  },
+  "Demon": {
+    "balor": {},
+    "carlgura": {},
+    "chasme": {},
+    "dretch": {},
+    "Goristro": {},
+    "Hezrou": {},
+    "Manes": {},
+    "Marilith": {},
+    "Nalfeshnee": {},
+    "Quasit": {},
+    "Shadow": {},
+    "Vrock": {},
+    "Yochlol": {},
+    "Glabrezu": {}
+  },
+  "Devil": {
+    "Barbed": {},
+    "Bearded": {},
+    "Bone": {},
+    "Chain": {},
+    "Erinyes": {},
+    "Homed": {},
+    "Ice": {},
+    "Imp": {},
+    "Lemure": {},
+    "Pit fiend": {},
+    "Spined": {}
+  },
+  "Dinosaur": {
+    "allosaurus": {
+      "teeth": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 5
+      }
+    },
+    "ankylosaurus": {
+      "teeth": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "armor-scales": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "plesiosaurus": {
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 3
+      }
+    },
+    "pteranodon": {
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "triceratops": {
+      "horns": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 5
+      }
+    },
+    "tyrannosaurus-rex": {
+      "teeth": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 200,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Dire wolf": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 50,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Displacer beast": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 70,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Doppelganger": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy" ],
+        "value": 70,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 1
+      }
+    }
+  },
+  "Dracolich": {
+    "base": {}
+  },
+  "Dragon": {
+    "turtle": {
+      "shell": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1800,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "black-adult": {
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1197,
+        "dc": 20,
+        "notes": "12d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 284,
+        "dc": 18,
+        "notes": "6d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 393,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 31,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 44,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 78,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 51,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 110,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 7500,
+        "dc": 22,
+        "notes": "Egg destroyed on failed DC.",
+        "shelfLife": 10
+      }
+    },
+    "black-ancient": {
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 2863,
+        "dc": 20,
+        "notes": "15d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 679,
+        "dc": 18,
+        "notes": "7d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 941,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 74,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 105,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 187,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 121,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 74,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 74,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 113,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 264,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 7500,
+        "dc": 22,
+        "notes": "Egg destroyed on failed DC.",
+        "shelfLife": 10
+      }
+    },
+    "black-wyrmling": {
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 20,
+        "notes": "5d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 18,
+        "notes": "2d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 4,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+	"black-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 302,
+        "dc": 20,
+        "notes": "11d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 72,
+        "dc": 18,
+        "notes": "5d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 99,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 8,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 13,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 8,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 8,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 12,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 28,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"blue-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1562,
+        "dc": 20,
+        "notes": "16d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 371,
+        "dc": 18,
+        "notes": "8d8 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 513,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 41,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 57,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 102,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 62,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 144,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8900,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"blue-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3383,
+        "dc": 20,
+        "notes": "12d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 803,
+        "dc": 18,
+        "notes": "6d8 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1112,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 88,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 124,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 221,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 143,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 133,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 312,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8900,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"blue-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 73,
+        "dc": 20,
+        "notes": "4d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 17,
+        "dc": 18,
+        "notes": "2d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"blue-young":{
+		"draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 521,
+        "dc": 20,
+        "notes": "10d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+		"gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 124,
+        "dc": 18,
+        "notes": "5d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 171,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 14,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 19,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 34,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 22,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 14,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 14,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 21,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 48,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"brass-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 239,
+        "dc": 20,
+        "notes": "12d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 57,
+        "dc": 18,
+        "notes": "6d6 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 79,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 6,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 9,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 6,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 6,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 9,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 22,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"brass-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1041,
+        "dc": 20,
+        "notes": "16d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 247,
+        "dc": 18,
+        "notes": "8d6 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 342,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 27,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 38,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 68,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 44,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 96,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 6700,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"brass-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 2550,
+        "dc": 20,
+        "notes": "13d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 605,
+        "dc": 18,
+        "notes": "6d6 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 838,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 66,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 93,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 167,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 108,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 100,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 235,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 6700,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"brass-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 21,
+        "dc": 20,
+        "notes": "4d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 18,
+        "notes": "2d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 7,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"bronze-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1353,
+        "dc": 20,
+        "notes": "12d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 321,
+        "dc": 18,
+        "notes": "6d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 445,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 35,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 49,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 57,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 53,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 125,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8200,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"bronze-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3123,
+        "dc": 20,
+        "notes": "16d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 741,
+        "dc": 18,
+        "notes": "8d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1026,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 81,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 114,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 204,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 132,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 81,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 81,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 123,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 288,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8200,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"bronze-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 20,
+        "notes": "3d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 18,
+        "notes": "1d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 4,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"bronze-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 406,
+        "dc": 20,
+        "notes": "10d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 96,
+        "dc": 18,
+        "notes": "5d10 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 133,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 17,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 11,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 11,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 37,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"copper-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 302,
+        "dc": 20,
+        "notes": "9d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 72,
+        "dc": 18,
+        "notes": "5d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 99,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 8,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 13,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 8,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 8,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 12,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 28,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"copper-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1197,
+        "dc": 20,
+        "notes": "12d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 284,
+        "dc": 18,
+        "notes": "6d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 393,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 31,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 44,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 78,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 51,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 110,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7530,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"copper-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1197,
+        "dc": 20,
+        "notes": "12d9 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 284,
+        "dc": 18,
+        "notes": "6d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 393,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 31,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 44,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 78,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 51,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 31,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 110,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7530,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"copper-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 21,
+        "dc": 20,
+        "notes": "4d8 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 18,
+        "notes": "2d10 acid damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 7,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"gold-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 614,
+        "dc": 20,
+        "notes": "10d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 146,
+        "dc": 18,
+        "notes": "5d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 202,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 16,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 22,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 40,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 26,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 57,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"gold-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1874,
+        "dc": 20,
+        "notes": "12d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 445,
+        "dc": 18,
+        "notes": "6d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 616,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 49,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 68,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 122,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 79,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 49,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 49,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 74,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 173,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 10000,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"gold-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3800,
+        "dc": 20,
+        "notes": "13d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 902,
+        "dc": 18,
+        "notes": "6d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1248,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 99,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 139,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 248,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 161,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 99,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 99,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 150,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 350,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 10000,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"gold-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 73,
+        "dc": 20,
+        "notes": "4d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 17,
+        "dc": 18,
+        "notes": "2d10 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"green-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 406,
+        "dc": 20,
+        "notes": "12d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 96,
+        "dc": 18,
+        "notes": "6d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 133,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 17,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 11,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 11,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 37,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"green-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1353,
+        "dc": 20,
+        "notes": "16d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 321,
+        "dc": 18,
+        "notes": "8d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 445,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 35,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 49,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 57,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 53,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 125,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8200,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"green-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3123,
+        "dc": 20,
+        "notes": "22d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 741,
+        "dc": 18,
+        "notes": "11d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1026,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 81,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 114,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 204,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 132,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 81,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 81,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 123,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 288,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8200,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"green-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 47,
+        "dc": 20,
+        "notes": "6d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 11,
+        "dc": 18,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 4,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"red-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 614,
+        "dc": 20,
+        "notes": "16d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 146,
+        "dc": 18,
+        "notes": "8d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 202,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 16,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 22,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 40,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 26,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 57,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"red-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1874,
+        "dc": 20,
+        "notes": "18d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 445,
+        "dc": 18,
+        "notes": "9d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 616,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 49,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 68,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 122,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 79,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 49,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 49,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 74,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 173,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 10000,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"red-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3800,
+        "dc": 20,
+        "notes": "26d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 902,
+        "dc": 18,
+        "notes": "13d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1248,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 99,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 139,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 248,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 161,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 99,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 99,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 150,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 350,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 10000,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"red-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 73,
+        "dc": 20,
+        "notes": "7d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 17,
+        "dc": 18,
+        "notes": "3d6 fire damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"silver-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 521,
+        "dc": 20,
+        "notes": "12d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 124,
+        "dc": 18,
+        "notes": "6d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 171,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 14,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 19,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 34,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 22,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 14,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 14,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 21,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 48,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"silver-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1562,
+        "dc": 20,
+        "notes": "13d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 371,
+        "dc": 18,
+        "notes": "6d8 lightning damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 513,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 41,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 57,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 102,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 62,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 144,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8900,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"silver-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 3383,
+        "dc": 20,
+        "notes": "15d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 803,
+        "dc": 18,
+        "notes": "7d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 1112,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 88,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 124,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 221,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 143,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 88,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 133,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 312,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 8900,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"silver-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 73,
+        "dc": 20,
+        "notes": "4d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 17,
+        "dc": 18,
+        "notes": "2d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 24,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 7,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"white-young":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 239,
+        "dc": 20,
+        "notes": "10d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 57,
+        "dc": 18,
+        "notes": "5d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 79,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 6,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 9,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 16,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 6,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 6,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 9,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 22,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	},
+	"white-adult":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 1041,
+        "dc": 20,
+        "notes": "16d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 247,
+        "dc": 18,
+        "notes": "8d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 342,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 27,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 38,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 68,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 44,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 27,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 41,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 96,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 6700,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"white-ancient":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 2550,
+        "dc": 20,
+        "notes": "12d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 605,
+        "dc": 18,
+        "notes": "6d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 838,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 66,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 93,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 167,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 108,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 66,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 100,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 235,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+	  "egg": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 6700,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 10
+	  }
+	},
+	"white-wyrmling":{
+      "draconis-fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 21,
+        "dc": 20,
+        "notes": "5d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 18,
+        "notes": "2d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 7,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "scales": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horn": {
+        "uses": ["Alchemy", "Trophy", "Practical"],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+	}
+  },
+  "Drider ": {
+	  "base":{
+		  "poison-gland":{
+			  "uses": [ "Alchemy" ],
+			  "value": 230,
+			  "dc": 18,
+			  "notes": "2d8 poison damage on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Dryad": {
+	  "base":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 20,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  }
+  },
+  "Duergar": { "base":{} },
+  "Eagle": {
+	  "base":{
+		  "feathers":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 1,
+			  "dc": 3,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "giant":{
+		  "feathers":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 20,
+			  "dc": 3,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Elemental": {
+	  "air":{},
+	  "earth":{},
+	  "fire":{},
+	  "water":{}
+  },
+  "Elephant": {
+	  "base":{
+		"tusks":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 50,
+			  "dc": 12,
+			  "notes": "",
+			  "shelfLife": 0
+		},
+		"feet":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 20,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 10
+		},
+		"hide":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 40,
+			  "dc": 18,
+			  "notes": "",
+			  "shelfLife": 10
+		}
+	  }
+  },
+  "Elf": { "drow":{}},
+  "Elk": {
+	  "base":{
+		  "hide":{
+			  "uses": [ "Practical" ],
+			  "value": 3,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 10
+		  },
+		  "antler":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 2,
+			  "dc": 3,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "giant":{
+		  "hide":{
+			  "uses": [ "Practical" ],
+			  "value": 40,
+			  "dc": 12,
+			  "notes": "",
+			  "shelfLife": 10
+		  },
+		  "antler":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 3,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Empyrean": {
+	  "base":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 3250,
+			  "dc": 22,
+			  "notes": "",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Ettercap": {
+	  "base":{
+		  "silk-gland":{
+			  "uses": [ "Alchemy", "Practical" ],
+			  "value": 45,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 15
+		  }
+	  }
+  },
+  "Ettin": {
+	  "base":{
+		  "tusks":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 110,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Faerie Dragon": {
+	  "base":{
+		  "faerie-fundamentum":{
+			  "uses": [ "Alchemy" ],
+			  "value": 40,
+			  "dc": 12,
+			  "notes": "Euphoria on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Fire beetle": {
+	  "giant":{
+		  "light-gland":{
+			  "uses": [ "Alchemy" ],
+			  "value": 2,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 1
+		  }
+	  }
+  },
+  "Flameskull": {
+	  "base":{
+		  "teeth":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 110,
+			  "dc": 6,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Flumph": {
+	  "base":{
+		  "brain":{
+			  "uses": [ "Alchemy" ],
+			  "value": 2,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  }
+  },
+  "Fomorian": {
+	  "base":{
+		  "eye":{
+			  "uses": [ "Alchemy" ],
+			  "value": 390,
+			  "dc": 15,
+			  "notes": "Deformed on failed DC.",
+			  "shelfLife": 2
+		  }
+	  }
+  },
+  "Frog": {
+	  "base":{
+		  "toe":{
+			  "uses": [ "Alchemy" ],
+			  "value": 1,
+			  "dc": 1,
+			  "notes": "",
+			  "shelfLife": 10
+		  }
+	  },
+	  "giant":{
+		  "toe":{
+			  "uses": [ "Alchemy" ],
+			  "value": 5,
+			  "dc": 1,
+			  "notes": "",
+			  "shelfLife": 10
+		  }
+	  }
+  },
+  "Fungi": {
+	  "gas-spore":{
+		  "spores":{
+			  "uses": [ "Alchemy" ],
+			  "value": 10,
+			  "dc": 6,
+			  "notes": "",
+			  "shelfLife": 15
+		  }
+	  },
+	  "shrieker":{
+		  "spores":{
+			  "uses": [ "Alchemy" ],
+			  "value": 1,
+			  "dc": 1,
+			  "notes": "",
+			  "shelfLife": 23
+		  }
+	  },
+	  "violet":{
+		  "spores":{
+			  "uses": [ "Alchemy" ],
+			  "value": 5,
+			  "dc": 1,
+			  "notes": "",
+			  "shelfLife": 35
+		  }
+	  }
+  },
+  "Galeb duhr": { "base":{} },
+  "Gargoyle": {
+	  "base":{
+		  "dust":{
+			  "uses": [ "Alchemy" ],
+			  "value": 45,
+			  "dc": 1,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Genie": {
+	  "dao":{},
+	  "djinni":{},
+	  "efreeti":{},
+	  "madrid":{}
+  },
+  "Ghost": { "base":{} },
+  "Ghoul": { "base":{}, "ghast":{} },
+  "Giant": {
+	  "cloud":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 500,
+			  "dc": 22,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 3
+		  }
+	  },
+	  "fire":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 500,
+			  "dc": 22,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 3
+		  }
+	  },
+	  "frost":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 390,
+			  "dc": 22,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 2
+		  }
+	  },
+	  "hill":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 180,
+			  "dc": 18,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 3
+		  }
+	  },
+	  "stone":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 290,
+			  "dc": 22,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 4
+		  }
+	  },
+	  "storm":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 1000,
+			  "dc": 22,
+			  "notes": "Heart destroyed on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Gibbering mouther": {
+	  "base":{
+		  "teeth":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "spittle-gland":{
+			  "uses": [ "Alchemy" ],
+			  "value": 40,
+			  "dc": 12,
+			  "notes": "Blinded for 5 rounds on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Gith": {
+	  "githyanki-knight":{
+		  "eyes":{
+			  "uses": [ "Alchemy" ],
+			  "value": 200,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 190,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  },
+	  "githyanki-warrior":{
+		  "eyes":{
+			  "uses": [ "Alchemy" ],
+			  "value": 40,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 30,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  },
+	  "githzerai-monk":{
+		  "eyes":{
+			  "uses": [ "Alchemy" ],
+			  "value": 40,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 30,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  },
+	  "githzerai-zerth":{
+		  "eyes":{
+			  "uses": [ "Alchemy" ],
+			  "value": 130,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 100,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  }
+  },
+  "Gnoll": {
+	  "base":{
+		  "hide":{
+			  "uses": [ "Trophy" ],
+			  "value": 10,
+			  "dc": 12,
+			  "notes": "",
+			  "shelfLife": 3
+		  }
+	  },
+	  "fang-of-yeenoghu":{
+		  "hide":{
+			  "uses": [ "Trophy" ],
+			  "value": 110,
+			  "dc": 12,
+			  "notes": "",
+			  "shelfLife": 3
+		  }
+	  },
+	  "pack-lord":{
+		  "hide":{
+			  "uses": [ "Trophy" ],
+			  "value": 45,
+			  "dc": 12,
+			  "notes": "",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Gnome deep": { "base": {} },
+  "Goat": {
+	  "base":{
+		  "hide":{
+			  "uses": [ "Trophy", "Practical" ],
+			  "value": 1,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 5
+		  },
+		  "horn":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 1,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "giant":{
+		  "hide":{
+			  "uses": [ "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 5
+		  },
+		  "horn":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Goblin": {
+	  "base":{},
+	  "boss":{}
+  },
+  "Golem": {
+	  "clay":{},
+	  "flesh":{},
+	  "iron":{},
+	  "stone":{}
+  },
+  "Gorgon": {
+	  "base":{
+		  "hide-plates":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 150,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 7
+		  },
+		  "oil-gland":{
+			  "uses": [ "Alchemy" ],
+			  "value": 50,
+			  "dc": 20,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "gorgonic-fondamentum":{
+			  "uses": [ "Alchemy" ],
+			  "value": 160,
+			  "dc": 20,
+			  "notes": "Turned to stone on failed DC.",
+			  "shelfLife": 6
+		  }
+	  }
+  },
+  "Grell": {
+	  "base":{
+		  "beak":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 70,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Grick": {
+	  "base":{
+		  "beak":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 45,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "alpha":{
+		  "beak":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 90,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "spine":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 200,
+			  "dc": 20,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Griffon": {
+	  "base":{
+		  "talons":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 30,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "feathers":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 10,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "beak":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "egg":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 200,
+			  "dc": 10,
+			  "notes": "",
+			  "shelfLife": 10
+		  }
+	  }
+  },
+  "Grimlock": {
+	  "base":{
+		  "ears":{
+			  "uses": [ "Alchemy", "Trophy" ],
+			  "value": 5,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 2
+		  }
+	  }
+  },
+  "Hag": {
+	  "green":{
+		  "hand":{
+			  "uses": [ "Alchemy", "Trophy" ],
+			  "value": 70,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 10
+		  }
+	  },
+	  "night":{
+		  "hand":{
+			  "uses": [ "Alchemy", "Trophy" ],
+			  "value": 180,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 10
+		  }
+	  },
+	  "sea":{
+		  "hand":{
+			  "uses": [ "Alchemy", "Trophy" ],
+			  "value": 45,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 5
+		  }
+	  }
+  },
+  "Half-red Dragon veteran": {
+	  "base":{
+		  "pseudo-fundamentum":{
+			  "uses": [ "Alchemy" ],
+			  "value": 180,
+			  "dc": 16,
+			  "notes": "7d6 fire damage on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Harpy": {
+	  "base":{
+		  "tongue":{
+			  "uses": [ "Alchemy" ],
+			  "value": 20,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Hawk": {
+	  "base":{
+		  "feathers":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 1,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Hell hound": {
+	  "base":{
+		  "hide":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 20,
+			  "dc": 15,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "pseudo-fundamentum":{
+			  "uses": [ "Alchemy" ],
+			  "value": 50,
+			  "dc": 15,
+			  "notes": "6d6 fire damage on failed DC.",
+			  "shelfLife": 3
+		  }
+	  }
+  },
+  "Helmed Horror": { "base":{} },
+  "Hippogriff": {
+	  "base":{
+		  "heart":{
+			  "uses": [ "Alchemy" ],
+			  "value": 5,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 2
+		  },
+		  "talons":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 10,
+			  "dc": 3,
+			  "notes": "",
+			  "shelfLife": 0
+		  },
+		  "feathers":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 5,
+			  "dc": 2,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Hobgoblin": {
+	  "base":{
+		  "scalp":{
+			  "uses": [],
+			  "value": 10,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "captain":{
+		  "scalp":{
+			  "uses": [],
+			  "value": 70,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  },
+	  "warlord":{
+		  "scalp":{
+			  "uses": [],
+			  "value": 230,
+			  "dc": 8,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Homunculus": { "base":{} },
+  "Hook Horror": {
+	  "base":{
+		  "hook":{
+			  "uses": [ "Alchemy", "Trophy", "Practical" ],
+			  "value": 70,
+			  "dc": 5,
+			  "notes": "",
+			  "shelfLife": 0
+		  }
+	  }
+  },
+  "Horse": {},
+  "Hydra": {},
+  "Hyena": {},
+  "Hyena - Giant": {},
+  "Intellect Devourer": {},
+  "Invisible Stalker": {},
+  "Jackal": {},
+  "Jackalwere": {},
+  "Kenku": {},
+  "Killer Whale": {},
+  "Kobold": {},
+  "Kobold winged": {},
+  "Kraken": {},
+  "Kuo-toa": {},
+  "Lamia": {},
+  "Lich": {},
+  "Lion": {},
+  "Lizard": {},
+  "Lizard - Giant": {},
+  "Lizardfolk": {},
+  "Lycanthrope": {},
+  "Magmin": {},
+  "Mammoth": {},
+  "Manticore": {},
+  "Mastiff": {},
+  "Medusa": {},
+  "Mephit - Dust": {},
+  "Merfolk": {},
+  "Merrow": {},
+  "Mimic": {},
+  "Mind flayer": {},
+  "Minotaur": {},
+  "Modron": {},
+  "Mute": {},
+  "Mummy": {},
+  "Mummy lord": {},
+  "Myconid": {},
+  "Naga - Bone": {},
+  "Naga - Guardian": {},
+  "Naga - Spirit": {},
+  "Nightmare": {},
+  "Nothic": {},
+  "NPC": {},
+  "Octopus": {},
+  "Octopus - Giant": {},
+  "Ogre": {},
+  "Ogre - Half": {},
+  "Ogre - Oni (mage)": {},
+  "Ooze - Black pudding": {},
+  "Ooze - gelatinous cube": {},
+  "Ooze - Grey": {},
+  "Ooze - Ochre jelly": {},
+  "Orc": {},
+  "Orc - War chief": {},
+  "Orc - Eye of Gruumush": {},
+  "Orc - Orog": {},
+  "Otyugh": {},
+  "Owl": {},
+  "Owl - Giant": {},
+  "Owlbear": {},
+  "Panth": {},
+  "Pegasus": {},
+  "Peryton": {},
+  "Piercer": {},
+  "Pixie": {},
+  "Pony": {},
+  "Pseudodragon": {},
+  "Purple wurm": {},
+  "Quaggoth": {},
+  "Quipper": {},
+  "Rakshasa": {},
+  "Rat": {},
+  "Rat - Giant": {},
+  "Raven": {},
+  "Remorhaz": {},
+  "Remorhaz - Young": {},
+  "Revenant": {},
+  "Rhinoceros": {},
+  "Roc": {},
+  "Roper": {},
+  "Rust monster": {},
+  "Saber-tooth tiger": {},
+  "Sahuagin": {},
+  "Salamander": {},
+  "Salamander - Fire snake": {},
+  "Satyr": {},
+  "Scarecrow": {},
+  "Scorpion": {},
+  "Scorpion - Giant": {},
+  "Sea horse": {},
+  "Sea horse - Giant": {},
+  "Shadow": {},
+  "Shadow dragon - Red, young": {},
+  "Shambling mound": {},
+  "Shark - Giant": {},
+  "Shark - Hunter": {},
+  "Shark - Reef": {},
+  "Shield guardian": {},
+  "Skeleton": {},
+  "Skeleton - Minotaur": {},
+  "Skeleton - Warhorse": {},
+  "Slaad - Blue": {},
+  "Slaad - Death": {},
+  "Slaad - Gray": {},
+  "Slaad - Green": {},
+  "Slaad - Red": {},
+  "Slaad - Tadpole": {},
+  "Snake - Constrictor": {},
+  "Snake - Flying": {},
+  "Snake - Giant Constrictor": {},
+  "Snake - Giant poisonous": {},
+  "Specter": {},
+  "Specter - Poltergeist": {},
+  "Sphinx - Androsphinx": {},
+  "Sphinx - Gynosphinx": {},
+  "Spider": {},
+  "Spider - Giant": {},
+  "Spider - Giant wolf": {},
+  "Spider - Phase": {},
+  "Sprite": {},
+  "Stirge": {},
+  "Succubus": {},
+  "Incubus": {},
+  "Tarrasque": {},
+  "Thri-Kreen": {},
+  "Tiger": {},
+  "Toad - Giant": {},
+  "Treant": {},
+  "Troglodyte": {},
+  "Troll": {},
+  "Umber Hulk": {},
+  "Unicorn": {},
+  "Vampire": {},
+  "Vulture": {},
+  "Vulture - Giant": {},
+  "Wasp - Giant": {},
+  "Water weird": {},
+  "Weasel": {},
+  "Weasel - Giant": {},
+  "Wight": {},
+  "Will-o'-wisp'": {},
+  "Winter wolf": {},
+  "Wolf": {},
+  "Worg": {},
+  "Wraith": {},
+  "Wyvern": {},
+  "Xorn": {},
+  "Yeti": {},
+  "Yeti - Abominable": {},
+  "Yuan-ti - Abomination": {},
+  "Yuan-ti - Malison": {},
+  "Yuan-ti - Pureblood": {},
+  "Yugoloth - Arcanaloth": {},
+  "Yugoloth - Mezzoloth": {},
+  "Yugoloth - Nycaloth": {},
+  "Yugoloth - Ultraloth": {},
+  "Zombie": {},
+  "Zombie - Beholder": {},
+  "Zombie - Ogre": {}
+}
