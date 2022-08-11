@@ -1,7 +1,9 @@
 import home from './components/Home.vue';
-import Monsters from './components/Monsters.vue';
+import monsters from './components/Monsters.vue';
+import wantedList from './components/WantedList.vue';
 
 export const routes = [
     { path: '/', component: home },
-    { path: '/Monsters', component: Monsters}
+    { path: '/Monsters', component: monsters },
+    { path: '/WantedList', component: wantedList }
 ];

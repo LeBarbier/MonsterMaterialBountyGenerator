@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <mmbg-navbar></mmbg-navbar>
-        <div>
+        <div class="conteneur">
             <router-view></router-view>
         </div>
     </div>
@@ -18,6 +18,10 @@
     };
 </script>
 
-<style>
+<style scoped>
+    .conteneur {
+        padding: 6px 7%;
+        margin: 0 auto;
+    }
 </style>
 

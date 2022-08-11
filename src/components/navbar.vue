@@ -1,9 +1,9 @@
 <template>
     <div class="navbar">
         <ul>
-            <router-link to="/">Home</router-link>
-            <router-link to="/Monsters">Monsters</router-link>
-            <router-link to="/WantedList">Wanted List</router-link>
+            <li><router-link to="/">Home</router-link></li>
+            <li><router-link to="/Monsters">Monsters</router-link></li>
+            <li><router-link to="/WantedList">Wanted List</router-link></li>
         </ul>
     </div>
 </template>
@@ -17,6 +17,7 @@
 <style scoped>
     .navbar {
         background-color: black;
+        text-align: center;
     }
 
     ul, li {
@@ -33,6 +34,10 @@
     }
 
     li:not(:last-child):after {
-        content: " - ";
+        content: '- ';
+        color: white;
+        font-size: 24px;
+        letter-spacing: 2px;
+        font-weight: bold;
     }
 </style>

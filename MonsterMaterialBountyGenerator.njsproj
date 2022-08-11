@@ -38,6 +38,7 @@
     <Content Include="src\components\Home.vue" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="src\components\WantedList.vue" />
     <Content Include="src\routes.js" />
   </ItemGroup>
   <ItemGroup>
@@ -46,16 +47,10 @@
     <Folder Include="src\" />
     <Folder Include="src\assets\" />
     <Folder Include="src\components\" />
-    <Folder Include="src\cSharp\" />
     <Folder Include="src\dataService\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="babel.config.js" />
-    <Content Include="src\cSharp\MonstreFactory.cs" />
-    <Content Include="src\cSharp\Piece.cs" />
-    <Content Include="src\cSharp\PiecesFactory.cs" />
-    <Content Include="src\cSharp\Program.cs" />
-    <Content Include="src\cSharp\Utilite.cs" />
     <Content Include="src\dataService\monster.data.service.js" />
     <Content Include="src\main.js" />
   </ItemGroup>

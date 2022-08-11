@@ -320,7 +320,7 @@
         "notes": "",
         "shelfLife": 0
       },
-      "behirFundamentum": {
+      "behir fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 521,
         "dc": 25,
@@ -950,8 +950,8 @@
         "shelfLife": 0
       }
     },
-    "blackAdult": {
-      "draconisFundamentum": {
+    "black adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1197,
         "dc": 20,
@@ -1036,8 +1036,8 @@
         "shelfLife": 10
       }
     },
-    "blackAncient": {
-      "draconisFundamentum": {
+    "black ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 2863,
         "dc": 20,
@@ -1122,8 +1122,8 @@
         "shelfLife": 10
       }
     },
-    "blackWyrmling": {
-      "draconisFundamentum": {
+    "black wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 47,
         "dc": 20,
@@ -1201,8 +1201,8 @@
         "shelfLife": 0
       }
     },
-    "blackYoung": {
-      "draconisFundamentum": {
+    "black young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 302,
         "dc": 20,
@@ -1280,8 +1280,8 @@
         "shelfLife": 0
       }
     },
-    "blueAdult": {
-      "draconisFundamentum": {
+    "blue adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1562,
         "dc": 20,
@@ -1366,8 +1366,8 @@
         "shelfLife": 10
       }
     },
-    "blueAncient": {
-      "draconisFundamentum": {
+    "blue ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3383,
         "dc": 20,
@@ -1452,8 +1452,8 @@
         "shelfLife": 10
       }
     },
-    "blueWyrmling": {
-      "draconisFundamentum": {
+    "blue wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 73,
         "dc": 20,
@@ -1531,8 +1531,8 @@
         "shelfLife": 0
       }
     },
-    "blueYoung": {
-      "draconisFundamentum": {
+    "blue young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 521,
         "dc": 20,
@@ -1610,8 +1610,8 @@
         "shelfLife": 0
       }
     },
-    "brassYoung": {
-      "draconisFundamentum": {
+    "brass young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 239,
         "dc": 20,
@@ -1689,8 +1689,8 @@
         "shelfLife": 0
       }
     },
-    "brassAdult": {
-      "draconisFundamentum": {
+    "brass adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1041,
         "dc": 20,
@@ -1775,8 +1775,8 @@
         "shelfLife": 10
       }
     },
-    "brassAncient": {
-      "draconisFundamentum": {
+    "brass ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 2550,
         "dc": 20,
@@ -1861,8 +1861,8 @@
         "shelfLife": 10
       }
     },
-    "brassWyrmling": {
-      "draconisFundamentum": {
+    "brass wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 21,
         "dc": 20,
@@ -1940,8 +1940,8 @@
         "shelfLife": 0
       }
     },
-    "bronzeAdult": {
-      "draconisFundamentum": {
+    "bronze adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1353,
         "dc": 20,
@@ -2026,8 +2026,8 @@
         "shelfLife": 10
       }
     },
-    "bronzeAncient": {
-      "draconisFundamentum": {
+    "bronze ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3123,
         "dc": 20,
@@ -2112,8 +2112,8 @@
         "shelfLife": 10
       }
     },
-    "bronzeWyrmling": {
-      "draconisFundamentum": {
+    "bronze wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 47,
         "dc": 20,
@@ -2191,8 +2191,8 @@
         "shelfLife": 0
       }
     },
-    "bronzeYoung": {
-      "draconisFundamentum": {
+    "bronze young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 406,
         "dc": 20,
@@ -2270,8 +2270,8 @@
         "shelfLife": 0
       }
     },
-    "copperYoung": {
-      "draconisFundamentum": {
+    "copper young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 302,
         "dc": 20,
@@ -2349,8 +2349,8 @@
         "shelfLife": 0
       }
     },
-    "copperAdult": {
-      "draconisFundamentum": {
+    "copper adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1197,
         "dc": 20,
@@ -2435,8 +2435,8 @@
         "shelfLife": 10
       }
     },
-    "copperAncient": {
-      "draconisFundamentum": {
+    "copper ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1197,
         "dc": 20,
@@ -2521,8 +2521,8 @@
         "shelfLife": 10
       }
     },
-    "copperWyrmling": {
-      "draconisFundamentum": {
+    "copper wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 21,
         "dc": 20,
@@ -2600,8 +2600,8 @@
         "shelfLife": 0
       }
     },
-    "goldYoung": {
-      "draconisFundamentum": {
+    "gold young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 614,
         "dc": 20,
@@ -2679,8 +2679,8 @@
         "shelfLife": 0
       }
     },
-    "goldAdult": {
-      "draconisFundamentum": {
+    "gold adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1874,
         "dc": 20,
@@ -2765,8 +2765,8 @@
         "shelfLife": 10
       }
     },
-    "goldAncient": {
-      "draconisFundamentum": {
+    "gold ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3800,
         "dc": 20,
@@ -2851,8 +2851,8 @@
         "shelfLife": 10
       }
     },
-    "goldWyrmling": {
-      "draconisFundamentum": {
+    "gold wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 73,
         "dc": 20,
@@ -2930,8 +2930,8 @@
         "shelfLife": 0
       }
     },
-    "greenYoung": {
-      "draconisFundamentum": {
+    "green young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 406,
         "dc": 20,
@@ -3009,8 +3009,8 @@
         "shelfLife": 0
       }
     },
-    "greenAdult": {
-      "draconisFundamentum": {
+    "green adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1353,
         "dc": 20,
@@ -3095,8 +3095,8 @@
         "shelfLife": 10
       }
     },
-    "greenAncient": {
-      "draconisFundamentum": {
+    "green ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3123,
         "dc": 20,
@@ -3181,8 +3181,8 @@
         "shelfLife": 10
       }
     },
-    "greenWyrmling": {
-      "draconisFundamentum": {
+    "green wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 47,
         "dc": 20,
@@ -3260,8 +3260,8 @@
         "shelfLife": 0
       }
     },
-    "redYoung": {
-      "draconisFundamentum": {
+    "red young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 614,
         "dc": 20,
@@ -3339,8 +3339,8 @@
         "shelfLife": 0
       }
     },
-    "redAdult": {
-      "draconisFundamentum": {
+    "red adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1874,
         "dc": 20,
@@ -3425,8 +3425,8 @@
         "shelfLife": 10
       }
     },
-    "redAncient": {
-      "draconisFundamentum": {
+    "red ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3800,
         "dc": 20,
@@ -3511,8 +3511,8 @@
         "shelfLife": 10
       }
     },
-    "redWyrmling": {
-      "draconisFundamentum": {
+    "red wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 73,
         "dc": 20,
@@ -3590,8 +3590,8 @@
         "shelfLife": 0
       }
     },
-    "silverYoung": {
-      "draconisFundamentum": {
+    "silver young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 521,
         "dc": 20,
@@ -3669,8 +3669,8 @@
         "shelfLife": 0
       }
     },
-    "silverAdult": {
-      "draconisFundamentum": {
+    "silver adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1562,
         "dc": 20,
@@ -3755,8 +3755,8 @@
         "shelfLife": 10
       }
     },
-    "silverAncient": {
-      "draconisFundamentum": {
+    "silver ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 3383,
         "dc": 20,
@@ -3841,8 +3841,8 @@
         "shelfLife": 10
       }
     },
-    "silverWyrmling": {
-      "draconisFundamentum": {
+    "silver wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 73,
         "dc": 20,
@@ -3920,8 +3920,8 @@
         "shelfLife": 0
       }
     },
-    "whiteYoung": {
-      "draconisFundamentum": {
+    "white young": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 239,
         "dc": 20,
@@ -3999,8 +3999,8 @@
         "shelfLife": 0
       }
     },
-    "whiteAdult": {
-      "draconisFundamentum": {
+    "white adult": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 1041,
         "dc": 20,
@@ -4085,8 +4085,8 @@
         "shelfLife": 10
       }
     },
-    "whiteAncient": {
-      "draconisFundamentum": {
+    "white ancient": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 2550,
         "dc": 20,
@@ -4171,8 +4171,8 @@
         "shelfLife": 10
       }
     },
-    "whiteWyrmling": {
-      "draconisFundamentum": {
+    "white wyrmling": {
+      "draconis fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 21,
         "dc": 20,
@@ -4395,7 +4395,7 @@
   },
   "Faerie Dragon": {
     "base": {
-      "faerieFundamentum": {
+      "faerie fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 40,
         "dc": 12,
@@ -4871,7 +4871,7 @@
   },
   "HalfRed Dragon veteran": {
     "base": {
-      "pseudoFundamentum": {
+      "pseudo fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 180,
         "dc": 16,
@@ -4911,7 +4911,7 @@
         "notes": "",
         "shelfLife": 2
       },
-      "pseudoFundamentum": {
+      "pseudo fundamentum": {
         "uses": [ "Alchemy" ],
         "value": 50,
         "dc": 15,
@@ -4998,59 +4998,495 @@
       }
     }
   },
-  "Hydra": {},
+  "Hydra": {
+    "base": {
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "heart": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 290,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "eye": {
+        "uses": [ "Alchemy" ],
+        "value": 75,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "hide": {
+        "uses": [ "Practical" ],
+        "value": 140,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 10
+      } 
+    }
+  },
   "Hyena": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 14,
+        "notes": "",
+        "shelfLife": 10
+      }
+    },
+    "giant": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
   },
-  "Intellect Devourer": {},
-  "Invisible Stalker": {},
-  "Jackal": {},
-  "Jackalwere": {},
-  "Kenku": {},
-  "Killer Whale": {},
-  "Kobold": {},
-  "Kobold winged": {},
-  "Kraken": {},
-  "KuoToa": {},
-  "Lamia": {},
-  "Lich": {},
-  "Lion": {},
+  "Intellect Devourer": { "base": {} },
+  "Invisible Stalker": { "base": {} },
+  "Jackal": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Jackalwere": {
+    "base": {
+      "eye": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Kenku": {
+    "base": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Killer Whale": {
+    "base": {
+      "blubber": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 65,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 1
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Kobold": {
+    "base": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 2,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "winged": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 2,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "wings": {
+        "uses": [ "Trophy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Kraken": {
+    "base": {
+      "ink sack": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5000,
+        "dc": 24,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "KuoToa": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Lamia": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 80,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "claws": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Lich": { "base": {} },
+  "Lion": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 15,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    } 
+  },
   "Lizard": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "tail": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "tail": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
   },
-  "Lizardfolk": {},
-  "Lycanthrope": {},
-  "Magmin": {},
-  "Mammoth": {},
-  "Manticore": {},
-  "Mastiff": {},
-  "Medusa": {},
-  "Mephit": {
-    "dust": {}
+  "Lizardfolk": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
   },
-  "Merfolk": {},
-  "Merrow": {},
-  "Mimic": {},
-  "Mind flayer": {},
-  "Minotaur": {},
-  "Modron": {},
-  "Mute": {},
-  "Mummy": {},
-  "Mummy lord": {},
-  "Myconid": {},
+  "Lycanthrope": { "base": {} },
+  "Magmin": { "base": {} },
+  "Mammoth": {
+    "base": {
+      "tusk": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 75,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "feet": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 50,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "hide": {
+        "uses": [ "Practical" ],
+        "value": 50,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Manticore": {
+    "base": {
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tail spike": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 9,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Mastiff": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Medusa": {
+    "base": {
+      "head": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 230,
+        "dc": 22,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Mephit": { "dust": {} },
+  "Merfolk": {
+    "base": {
+      "tail": {
+        "uses": [ "Trophy" ],
+        "value": 3,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Merrow": {
+    "base": {
+      "tail": {
+        "uses": [ "Trophy" ],
+        "value": 45,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Mimic": {
+    "base": {
+      "pseudopod": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Mind flayer": {
+    "base": {
+      "brain": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 200,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 1
+      },
+      "hand": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "heart": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Minotaur": {
+    "base": {
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 60,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hoof": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Modron": { "base": {} },
+  "Mule": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Mummy": { "base": {}, "lord": {} },
+  "Myconid": {
+    "base": {
+      "spores": {
+        "uses": [ "Alchemy" ],
+        "value": 10,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 35
+      }
+    }
+  },
   "Naga": {
-    "bone": {},
-    "guardian": {},
-    "spirit": {}
+    "bone": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 110,
+        "dc": 5,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "guardian": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 10,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 0
+      },
+      "poison gland": {
+        "uses": [ "Alchemy" ],
+        "value": 240,
+        "dc": 15,
+        "notes": "10d8 poison damage on failed DC.",
+        "shelfLife": 5
+      }
+    },
+    "spirit": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 200,
+        "dc": 10,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 0
+      },
+      "poison gland": {
+        "uses": [ "Alchemy" ],
+        "value": 390,
+        "dc": 15,
+        "notes": "7d8 poison damage on failed DC.",
+        "shelfLife": 5
+      }
+    }
   },
-  "Nightmare": {},
-  "Nothic": {},
-  "NPC": {},
+  "Nightmare": {
+    "base": {
+      "hoof": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 18,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Nothic": {
+    "base": {
+      "eye": {
+        "uses": [ "Alchemy", "Trophy" ],
+        "value": 45,
+        "dc": 10,
+        "notes": "3d6 necrotic damage of failed DC.",
+        "shelfLife": 2
+      }
+    }
+  },
+  "NPC": { "base": {} },
   "Octopus": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "ink sack": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 1,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 5
+      }
+    },
+    "giant": {
+      "ink sack": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 20,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
   },
   "Ogre": {
     "base": {},
@@ -5058,148 +5494,1481 @@
     "oni": {}
   },
   "Ooze": {
-    "blackPudding": {},
-    "gelatinousCube": {},
-    "ochreJelly": {}
+    "black pudding": {},
+    "gelatinous cube": {},
+    "gray": {}, 
+    "ochre jelly": {}
   },
   "Orc": {
-    "base": {},
-    "warChief": {},
-    "eyeOfGruumush": {},
-    "orog": {}
+    "base": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "warChief": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 110,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "eye of Gruumsh": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 20,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy", "Trophy" ],
+        "value": 13,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 2
+      }
+    },
+    "orog": {
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 45,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
-  "Otyugh": {},
+  "Otyugh": {
+    "base": {
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 180,
+        "dc": 15,
+        "notes": "Diseased on failed DC.",
+        "shelfLife": 0
+      }
+    }
+  },
   "Owl": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "talons": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 2
+      }
+    },
+    "giant": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "talons": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
   },
-  "Owlbear": {},
-  "Panth": {},
-  "Pegasus": {},
-  "Peryton": {},
-  "Piercer": {},
-  "Pixie": {},
-  "Pony": {},
-  "Pseudodragon": {},
-  "PurpleWurm": {},
-  "Quaggoth": {},
-  "Quipper": {},
-  "Rakshasa": {},
+  "Owlbear": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Panther": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 4,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Pegasus": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 40,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hoof": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Peryton": {
+    "base": {
+      "antlers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "talons": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Piercer": {
+    "base": {
+      "slime": {
+        "uses": [ "Alchemy" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Pixie": {
+    "base": {
+      "dust": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Pony": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Pseudodragon": {
+    "base": {
+      "stringer": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 10,
+        "notes": "1d4 poison damage on failed DC.",
+        "shelfLife": 8
+      }
+    }
+  },
+  "Purple wurm": {
+    "base": {
+      "poison gland": {
+        "uses": [ "Alchemy" ],
+        "value": 1000,
+        "dc": 22,
+        "notes": "12d6 poison damage on failed DC.",
+        "shelfLife": 10
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 300,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Quaggoth": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 15,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 30,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Quipper": { "base": {} },
+  "Rakshasa": { "base": {} },
   "Rat": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "tail": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "Just a standard mullet on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "tail": {
+        "uses": [ "Alchemy" ],
+        "value": 2,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
-  "Raven": {},
+  "Raven": {
+    "base": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
   "Remorhaz": {
-    "base": {},
-    "young": {}
+    "base": {
+      "heat source": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 720,
+        "dc": 18,
+        "notes": "3d6 fire damage on failed DC.",
+        "shelfLife": 8
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1000,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 60
+      }
+    },
+    "young": {
+      "heat source": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 180,
+        "dc": 13,
+        "notes": "2d6 fire damage on failed DC.",
+        "shelfLife": 8
+      }
+    }
   },
-  "Revenant": {},
-  "Rhinoceros": {},
-  "Roc": {},
-  "Roper": {},
-  "Rust monster": {},
-  "SaberTooth tiger": {},
-  "Sahuagin": {},
+  "Revenant": { "base": {} },
+  "Rhinoceros": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 9,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Roc": {
+    "base": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 120,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "talons": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 600,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2000,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 25
+      }
+    }
+  },
+  "Roper": {
+    "base": {
+      "gizzard": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 360,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
+  },
+  "Rust monster": {
+    "base": {
+      "armor": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 15
+      }
+    }
+  },
+  "Saber-toothed tiger": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Sahuagin": {
+    "base": {
+      "jaw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
   "Salamander": {
-    "base": {},
-    "fireSnake": {}
+    "base": {
+      "internal forge": {
+        "uses": [ "Alchemy" ],
+        "value": 180,
+        "dc": 15,
+        "notes": "2d6 fire damage on failed DC.",
+        "shelfLife": 15
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 500,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 20
+      }
+    },
+    "fire snake": {
+      "internal forge": {
+        "uses": [ "Alchemy" ],
+        "value": 20,
+        "dc": 10,
+        "notes": "1d6 fire damage on failed DC.",
+        "shelfLife": 15
+      }
+    }
   },
-  "Satyr": {},
-  "Scarecrow": {},
+  "Satyr": {
+    "base": {
+      "horns": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Scarecrow": { "base": {} },
   "Scorpion": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "1d8 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    },
+    "giant": {
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 70,
+        "dc": 8,
+        "notes": "4d8 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    }
   },
   "Sea horse": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "dried body": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "tail": {
+        "uses": [ "Alchemy" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
   },
-  "Shadow": {},
-  "Shambling mound": {},
+  "Shadow": {
+    "base": {},
+    "dragon, red": {},
+    "young": {}
+  },
+  "Shambling mound": { "base": {} },
   "Shark": {
-    "giant": {},
-    "hunter": {},
-    "reef": {}
+    "giant": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "fin": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "hunter": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "fin": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "reef": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 7,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "fin": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
-  "Shield guardian": {},
+  "Shield guardian": { "base": {} },
   "Skeleton": {
-    "base": {},
-    "minotaur": {},
-    "warhorse": {}
+    "base": {
+      "bones": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "minotaur": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "warhorse": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
   "Slaad": {
-    "blue": {},
-    "death": {},
-    "gray": {},
-    "green": {},
-    "red": {},
+    "blue": {
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 290,
+        "dc": 15,
+        "notes": "Infected with chaos phage on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "death": {
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 590,
+        "dc": 15,
+        "notes": "2d10 necrotic damage on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "gray": {
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 500,
+        "dc": 6,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "green": {
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 390,
+        "dc": 6,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "red": {
+      "claw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 180,
+        "dc": 12,
+        "notes": "Infected with slaad egg on failed DC.",
+        "shelfLife": 0
+      }
+    },
     "tadpole": {}
   },
   "Snake": {
-    "constrictor": {},
-    "flying": {},
-    "giantConstrictor": {},
-    "giantPoisonous": {}
+    "constrictor": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "flying": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "poison": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 2,
+        "notes": "3d4 poison damage on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "giant constrictor": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant poisonous": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "poison gland": {
+        "uses": [ "Alchemy" ],
+        "value": 45,
+        "dc": 5,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 0
+      }
+    },
+    "poisonous": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "poison gland": {
+        "uses": [ "Alchemy" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "1d6 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    }
   },
   "Specter": {
     "base": {},
     "poltergeist": {}
   },
   "Sphinx": {
-    "Androsphinx": {},
-    "Gynosphinx": {}
+    "Androsphinx": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 300,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "paws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "heart": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 600,
+        "dc": 22,
+        "notes": "8d10 thunder damage on failed DC.",
+        "shelfLife": 2
+      }
+    },
+    "Gynosphinx": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 200,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 100,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "paws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 100,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "heart": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 300,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 2
+      }
+    }
   },
   "Spider": {
-    "base": {},
-    "giant": {},
-    "giantWolf": {},
-    "phase": {}
+    "base": {
+      "dried body": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "silk": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 15,
+        "dc": 9,
+        "notes": "2d8 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    },
+    "giant wolf": {
+      "silk": {
+        "uses": [ "Alchemy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 4,
+        "dc": 9,
+        "notes": "2d6 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    },
+    "phase": {
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 70,
+        "dc": 12,
+        "notes": "4d8 poison damage on failed DC.",
+        "shelfLife": 10
+      }
+    }
   },
-  "Sprite": {},
-  "Stirge": {},
-  "Succubus": {},
-  "Incubus": {},
-  "Tarrasque": {},
-  "ThriKreen": {},
-  "Tiger": {},
+  "Sprite": {
+    "base": {
+      "wings": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Stirge": {
+    "base": {
+      "": {
+        "uses": [ "Alchemy" ],
+        "value": 5,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Succubus": { "base": {} },
+  "Incubus": { "base": {} },
+  "Tarrasque": {
+    "base": {
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 6382,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 14301,
+        "dc": 24,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 419,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 1589,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1054,
+        "dc": 25,
+        "notes": "",
+        "shelfLife": 25
+      },
+      "skull": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 1682,
+        "dc": 20,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 956,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 853,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 1236,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "horns": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1589,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Thri-Kreen": {
+    "base": {
+      "carapace": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 15
+      }
+    }
+  },
+  "Tiger": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 15,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
   "Toad": {
-    "Giant": {}
+    "giant": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "poison gland": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 15,
+        "dc": 10,
+        "notes": "1d10 poison damage on failed DC.",
+        "shelfLife": 0
+      }
+    }
   },
-  "Treant": {},
-  "Troglodyte": {},
-  "Troll": {},
-  "Umber Hulk": {},
-  "Unicorn": {},
-  "Vampire": {},
+  "Treant": {
+    "base": {
+      "lumber": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 500,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Troglodyte": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
+  },
+  "Troll": { "base": {} },
+  "Umber Hulk": {
+    "base": {
+      "eyes": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 150,
+        "dc": 16,
+        "notes": "Confused for 4 rounds on failed DC.",
+        "shelfLife": 2
+      },
+      "mandibles": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Unicorn": {
+    "base": {
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 300,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "blood": {
+        "uses": [ "Alchemy" ],
+        "value": 50,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
+  },
+  "Vampire": { "base": {} },
   "Vulture": {
-    "base": {},
-    "Giant": {}
+    "base": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "beak": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 1,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "giant": {
+      "feathers": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "beak": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
   "Wasp": {
-    "Giant": {}
+    "giant": {
+      "stinger": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 10,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
   },
-  "Water weird": {},
+  "Water weird": { "base": {} },
   "Weasel": {
-    "base": {},
-    "giant": {}
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "musk gland": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 3
+      }
+    },
+    "giant": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      },
+      "musk gland": {
+        "uses": [ "Alchemy" ],
+        "value": 1,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 3
+      }
+    }
   },
-  "Wight": {},
-  "WillOWisp'": {},
-  "WinterWolf": {},
-  "Wolf": {},
-  "Worg": {},
-  "Wraith": {},
-  "Wyvern": {},
-  "Xorn": {},
+  "Wight": {
+    "base": {
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 70,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Will-O'-Wisp": { "base": {} },
+  "Winter wolf": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 62,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 3,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Wolf": {
+    "base": {
+      "hide": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 47,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 2,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 4,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Worg": {
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 8,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "claws": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 1,
+        "dc": 4,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
+  "Wraith": { "base": {} },
+  "Wyvern": {
+    "base": {
+      "gizzard": {
+        "uses": [ "Alchemy" ],
+        "value": 25,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "heart": {
+        "uses": [ "Alchemy" ],
+        "value": 30,
+        "dc": 18,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "eyes": {
+        "uses": [ "Alchemy" ],
+        "value": 20,
+        "dc": 10,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "liver": {
+        "uses": [ "Alchemy" ],
+        "value": 35,
+        "dc": 13,
+        "notes": "",
+        "shelfLife": 2
+      },
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 50,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 20,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 20,
+        "dc": 2,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 260,
+        "dc": 15,
+        "notes": "2d6 poison damage on failed DC.",
+        "shelfLife": 10
+      },
+      "egg": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 500,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 10
+      }
+    }
+  },
+  "Xorn": {
+    "base": {
+      "talons": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 35,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "eye": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 100,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "teeth": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 45,
+        "dc": 9,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
+  },
   "Yeti": {
-    "base": {},
-    "abominable": {}
+    "base": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 70,
+        "dc": 15,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "paw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 8,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 15,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 0
+      }
+    },
+    "abominable": {
+      "yeti fundamentum": {
+        "uses": [ "Alchemy" ],
+        "value": 500,
+        "dc": 18,
+        "notes": "10d8 cold damage on failed DC.",
+        "shelfLife": 3
+      },
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 200,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "paw": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 100,
+        "dc": 9,
+        "notes": "",
+        "shelfLife": 10
+      },
+      "horn": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 100,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "skull": {
+        "uses": [ "Trophy" ],
+        "value": 100,
+        "dc": 4,
+        "notes": "",
+        "shelfLife": 0
+      }
+    }
   },
   "YuanTi": {
-    "abomination": {},
-    "malison": {},
-    "pureblood": {}
+    "abomination": {
+      "hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 90,
+        "dc": 16,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 150,
+        "dc": 16,
+        "notes": "3d6 poison damage on failed DC.",
+        "shelfLife": 10
+      },
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hand": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 25,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 15
+      }
+    },
+    "malison": {
+      "back hide": {
+        "uses": [ "Trophy", "Practical" ],
+        "value": 30,
+        "dc": 12,
+        "notes": "",
+        "shelfLife": 3
+      },
+      "poison sack": {
+        "uses": [ "Alchemy" ],
+        "value": 30,
+        "dc": 13,
+        "notes": "2d6 poison damage on failed DC.",
+        "shelfLife": 10
+      },
+      "skull": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 0
+      },
+      "hand": {
+        "uses": [ "Alchemy", "Trophy", "Practical" ],
+        "value": 5,
+        "dc": 3,
+        "notes": "",
+        "shelfLife": 15
+      }
+    },
+    "pureblood": {
+      "tongue": {
+        "uses": [ "Alchemy" ],
+        "value": 20,
+        "dc": 5,
+        "notes": "",
+        "shelfLife": 5
+      }
+    }
   },
   "Yugoloth": {
     "arcanaloth": {},
